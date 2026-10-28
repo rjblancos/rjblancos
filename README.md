@@ -33,6 +33,7 @@ Cada sistema tiene su página de presentación y su caso de estudio en español 
 | **[CV5](https://rjblancos.github.io/cv5-showcase/)** | Portal de códigos de verificación: tu cliente ve su código en segundos, solo el suyo y sin la contraseña del correo. | [Presentación](https://rjblancos.github.io/cv5-showcase/) · [Caso de estudio](https://github.com/rjblancos/cv5-showcase) |
 | **[K-Docs](https://rjblancos.github.io/kdocs-showcase/)** | Gestión documental: versiones, búsqueda en el contenido con OCR, firma por enlace, vencimientos, auditoría y portal de clientes. | [Presentación](https://rjblancos.github.io/kdocs-showcase/) · [Caso de estudio](https://github.com/rjblancos/kdocs-showcase) |
 | **[Gestor de cuentas + Tienda](https://rjblancos.github.io/gestor-cuentas-showcase/)** | Inventario de cuentas y perfiles, ventas y cobros conectados a una tienda propia que entrega sola desde el inventario. | [Presentación](https://rjblancos.github.io/gestor-cuentas-showcase/) · [Caso de estudio](https://github.com/rjblancos/gestor-cuentas-showcase) |
+| **[K-Mant](https://rjblancos.github.io/kmant-showcase/)** | Gestión de mantenimiento: equipos, órdenes de trabajo, preventivo, inventario, compras, indicadores y portal del cliente. | [Presentación](https://rjblancos.github.io/kmant-showcase/) · [Caso de estudio](https://github.com/rjblancos/kmant-showcase) |
 
 ## 🚀 Qué resolvemos
 
