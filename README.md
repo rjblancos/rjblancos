@@ -34,6 +34,7 @@ Cada sistema tiene su página de presentación y su caso de estudio en español 
 | **[K-Docs](https://rjblancos.github.io/kdocs-showcase/)** | Gestión documental: versiones, búsqueda en el contenido con OCR, firma por enlace, vencimientos, auditoría y portal de clientes. | [Presentación](https://rjblancos.github.io/kdocs-showcase/) · [Caso de estudio](https://github.com/rjblancos/kdocs-showcase) |
 | **[Gestor de cuentas + Tienda](https://rjblancos.github.io/gestor-cuentas-showcase/)** | Inventario de cuentas y perfiles, ventas y cobros conectados a una tienda propia que entrega sola desde el inventario. | [Presentación](https://rjblancos.github.io/gestor-cuentas-showcase/) · [Caso de estudio](https://github.com/rjblancos/gestor-cuentas-showcase) |
 | **[K-Mant](https://rjblancos.github.io/kmant-showcase/)** | Gestión de mantenimiento: equipos, órdenes de trabajo, preventivo, inventario, compras, indicadores y portal del cliente. | [Presentación](https://rjblancos.github.io/kmant-showcase/) · [Caso de estudio](https://github.com/rjblancos/kmant-showcase) |
+| **[Condoku](https://rjblancos.github.io/condoku-showcase/)** | Administración de condominios: cobranza, contabilidad de partida doble, portería con QR y soporte técnico, en un sistema pensado para el teléfono. | [Presentación](https://rjblancos.github.io/condoku-showcase/) · [Caso de estudio](https://github.com/rjblancos/condoku-showcase) |
 
 ## 🚀 Qué resolvemos
 
